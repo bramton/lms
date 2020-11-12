@@ -67,4 +67,4 @@ See [INSTALL.md](INSTALL.md) file.
 
 ## Contributing
 
-Contributions are welcome! Please prepare your pull requests on the [develop](/github/epoupon/lms/tree/develop) branch.
+Contributions are welcome! Please prepare your pull requests on the [develop](../../tree/develop) branch.
