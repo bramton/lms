@@ -1,3 +1,17 @@
+- [Installation](#installation)
+  * [Docker](#docker)
+  * [Debian Buster packages](#debian-buster-packages)
+  * [From source](#from-source)
+    + [Build dependencies](#build-dependencies)
+    + [Build](#build)
+    + [Installation](#installation-1)
+    + [Upgrade](#upgrade)
+- [Deployment](#deployment)
+  * [Configuration](#configuration)
+  * [Deploy on non root path](#deploy-on-non-root-path)
+  * [Reverse proxy settings](#reverse-proxy-settings)
+- [Run](#run)
+
 # Installation
 
 ## Docker
